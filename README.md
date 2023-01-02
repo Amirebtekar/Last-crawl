@@ -8,7 +8,7 @@
 2. در مرحله دوم فایل [https://github.com/Amirebtekar/Last-crawl/archive/refs/heads/main.zip] (https://github.com/Amirebtekar/Last-crawl/archive/refs/heads/main.zip) دانلود کنید
 3. فایل بالا اکسترکت کنید و در پوشه یک ترمینال باز کنید.
 4. دستور زیر را در ترمینال اجرا کنید `pip install -r requirements.txt`
-5. در این مرحله باید service account بسازید. [https://www.python.org/downloads/](آموزش ساخت service account)
+5. در این مرحله باید service account بسازید. [https://www.python.org/downloads/] (آموزش ساخت service account)
 6. نام فایل در یافتی را به `service_account` تغییر بدید.
 7. فایل `app.py` را با استفاده از باز کنید.
 8. خط های 9,10,21,38,39,40 را کامل کنید
