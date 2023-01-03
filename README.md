@@ -20,4 +20,4 @@
 2. به بقیه کارهاتون برسید و منتظر پیامک باشید :)
 3. اگر هم پیامک ست نکردید در ترمینال خود منتظر `++++ The End ++++` باشید
 
-سعی میکنم ویدیو آموزشش رو هم توی لینکدینم [https://www.linkedin.com/in/amir-ebtekar/] (https://www.linkedin.com/in/amir-ebtekar/) بزارم
+سعی میکنم ویدیو آموزشش رو هم توی لینکدینم https://www.linkedin.com/in/amir-ebtekar/ بزارم
