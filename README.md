@@ -4,8 +4,8 @@
 
 ## آماده سازی در 10 مرحله آسان
 
-1. ابتدا اقدام به نصب پایتون کنید. برای این کار به [https://www.python.org/downloads/](https://www.python.org/downloads/) مراجعه کنید.
-2. در مرحله دوم فایل [https://github.com/Amirebtekar/Last-crawl/archive/refs/heads/main.zip] (https://github.com/Amirebtekar/Last-crawl/archive/refs/heads/main.zip) دانلود کنید
+1. ابتدا اقدام به نصب پایتون کنید. برای این کار به [https://www.python.org/downloads/] (https://www.python.org/downloads/) مراجعه کنید.
+2. در مرحله دوم فایل [https://github.com/Amirebtekar/Last-crawl/archive/refs/heads/main.zip] دانلود کنید
 3. فایل بالا اکسترکت کنید و در پوشه یک ترمینال باز کنید.
 4. دستور زیر را در ترمینال اجرا کنید `pip install -r requirements.txt`
 5. در این مرحله باید service account بسازید. [https://www.python.org/downloads/] (آموزش ساخت service account)
@@ -20,4 +20,4 @@
 2. به بقیه کارهاتون برسید و منتظر پیامک باشید :)
 3. اگر هم پیامک ست نکردید در ترمینال خود منتظر `++++ The End ++++` باشید
 
-سعی میکنم ویدیو آموزشش رو هم توی لینکدینم [https://www.linkedin.com/in/amir-ebtekar/](https://www.linkedin.com/in/amir-ebtekar/) بزارم
+سعی میکنم ویدیو آموزشش رو هم توی لینکدینم [https://www.linkedin.com/in/amir-ebtekar/] (https://www.linkedin.com/in/amir-ebtekar/) بزارم
