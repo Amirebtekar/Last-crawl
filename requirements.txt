@@ -1,0 +1,4 @@
+advertools==0.13.2
+google_api_python_client==2.70.0
+ippanel==2.0.7
+protobuf==4.21.12
